@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Netreo",
+            "workType": "Contract, Full-time",
+            "workDescription": [
+                "Developed and optimized core application features, achieving a 30% improvement in response time and ensuring seamless integration between components.",
+                "Utilized cloud services and containerization to ensure high availability and scalability of monitoring applications."
+            ],
+            "dateText": "April 2022 - February 2025"
+        },
+        {
+            "title": "Full Stack Engineer",
+            "subtitle": "BearPlex",
+            "workType": "Full-time",
+            "workDescription": [
+                "Successfully delivered AI-driven applications that improved client operations by 20% through process automation and enhanced user engagement by 15% via personalized recommendations.",
+                "Managed and optimized cloud-based deployment using AWS, ensuring reliable and secure hosting."
+            ],
+            "dateText": "April 2019 - March 2022"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "High6",
+            "workType": "Full-time",
+            "workDescription": [
+                " Developed and deployed scalable web applications using JavaScript and Python, achieving a 15% increase in user satisfaction based on customer feedback surveys.",
+                " Integrated third-party APIs to expand functionality, leading to a 20% improvement in operational efficiency for key business processes."
+            ],
+            "dateText": "June 2017 - March 2019"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "http://www.linkedin.com/in/rivaldo-sabino-9914b3346"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/rivaldo1129"
+        },
+        {
+            "network" : "email",
+            "href": "sabinorivaldo1129@gmail.com"
+        }
+    ]
+}

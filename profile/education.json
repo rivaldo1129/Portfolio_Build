@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "Auguet 2012 - May 2017",
+            "cardTitle": "Bachelor's Degree in Computer Science",
+            "cardSubtitle":"University of the Cordilleras",
+            "cardDetailedText": "CGPA - 9.5",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

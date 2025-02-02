@@ -1,0 +1,110 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/snapdeal.png",
+            "title": "Snapdeal",
+            "bodyText": " - Description: A major Indian e-commerce platform offering a wide range of products, including electronics, fashion, home essentials, and more. \n - Tech Focus: High scalability to handle large user traffic and complex logistics management.",
+            "tags" : [
+                "Flask",
+                "Svelte",
+                "PWA",
+                "JQuery",
+                "AWS",
+                "MySQL"
+            ]
+        },
+        {
+            "image" : "images/projects/invoiceninja.png",
+            "title": "Invoice Ninja",
+            "bodyText": "- Description: An open-source platform for freelancers and small businesses to manage invoicing, track payments, and streamline finances.\n - Tech Focus: Laravel backend with Vue.js frontend, designed for ease of customization and integration with third-party payment platforms.",
+            "tags" : [
+                "JavaScript",
+                "VueJS",
+                "Vuex",
+                "WordPress",
+                "MySQL",
+                "SEO"
+            ]
+        },
+        {
+            "image" : "images/projects/kolo.png",
+            "title": "Kolo",
+            "bodyText": "- Description: A platform for home builders, renovators, and designers to share ideas, find inspiration, and connect with professionals.\n - Tech Focus: Likely leveraging visual and content-heavy designs to attract and engage users.",
+            "tags" : [
+                "Python",
+                "Django",
+                "WordPress",
+                "HTML5",
+                "BootStrap",
+                "CSS3"
+            ]
+        },
+        {
+            "image" : "images/projects/crafts.png",
+            "title": "CRAFTS",
+            "bodyText": "- Description: A marketplace focusing on handcrafted items and artisanal products, connecting local artists to buyers globally.\n - Tech Focus: Backend likely focused on catalog management and secure payments.",
+            "tags" : [
+                "PHP",
+                "WordPress",
+                "SEO",
+                "JavaScript",
+                "JQuery",
+                "BootStrap"
+            ]
+        },
+        {
+            "image" : "images/projects/sill.png",
+            "title": "The Sill",
+            "bodyText": "- Description: An e-commerce platform specializing in houseplants, plant care accessories, and workshops to encourage plant care culture.\n - Tech Focus: Beautiful frontend design, efficient product categorization, and a user-friendly shopping experience.",
+            "tags" : [
+                "C#",
+                "ASP.NET",
+                "ReactJS",
+                "Redux",
+                "AWS",
+                "AWS S3",
+                "Tailwind CSS",
+                "SEO"
+            ]
+        },
+        {
+            "image" : "images/projects/hydrow.png",
+            "title": "Hydrow",
+            "bodyText": "- Description: A company offering high-tech rowing machines paired with an interactive virtual rowing experience for fitness enthusiasts.\n - Tech Focus: Seamlessly integrating hardware, real-time video streaming, and user performance tracking.",
+            "tags" : [
+                "Node.js",
+                "Express.js",
+                "React.js",
+                "BootStrap",
+                "PWA",
+                "Amazon Webstore"
+            ]
+        },
+        {
+            "image" : "images/projects/peepso.png",
+            "title": "PeepSo",
+            "bodyText": "- Description: A WordPress plugin for creating private social networks and community websites, with features like messaging, news feeds, and profiles. - Tech Focus: Built on PHP, highly customizable, and integrates with popular WordPress tools.",
+            "tags" : [
+                "JavaScript",
+                "Backbone",
+                "ReactJS",
+                "MySQL",
+                "PHP",
+                "WordPress"
+            ]
+        },
+        {
+            "image" : "images/projects/barchart.png",
+            "title": "Barchart",
+            "bodyText": "- Description: A financial data platform providing market data for stocks, commodities, cryptocurrencies, and more, catering to traders and investors. - Tech Focus: Real-time data updates, financial analytics, and a responsive user interface for in-depth analysis.",
+            "tags" : [
+                "ReactJS",
+                "AngularJS",
+                "MomentJS",
+                "Laravel",
+                "WordPress",
+                "AWS"
+            ]
+        }
+    ]
+}

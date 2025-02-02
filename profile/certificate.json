@@ -1,0 +1,9 @@
+{
+    "projects" : [
+        {
+            "image" : "images/certificate/full_stack.png",
+            "title": "Full Stack",
+            "bodyText": "2024: Full Stack Engineer Certificate"
+        }
+    ]
+}

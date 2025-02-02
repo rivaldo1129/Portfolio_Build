@@ -1,0 +1,106 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/ruby.png",
+                    "title": "Ruby"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP"
+                },
+                {
+                    "icon": "images/skills/cshape.png",
+                    "title": "C#"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
+                },
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
+                },
+                {
+                    "icon": "images/skills/flask.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "images/skills/net.png",
+                    "title": "ASP.NET"
+                },
+                {
+                    "icon": "images/skills/three.png",
+                    "title": "Three.js"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/azure.png",
+                    "title": "Azure"
+                },
+                {
+                    "icon": "images/skills/cypress.png",
+                    "title": "Cypress"
+                },
+                {
+                    "icon": "images/skills/jest.png",
+                    "title": "Jest"
+                }
+            ]
+    }
+]}
