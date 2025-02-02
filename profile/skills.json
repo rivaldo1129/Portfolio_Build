@@ -77,6 +77,23 @@
         {
             "title" : "Tools & Platforms",
             "items": [
+                
+                {
+                    "icon": "images/skills/AWS.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
+                },
+                {
+                    "icon": "images/skills/Cypress.png",
+                    "title": "Cypress"
+                },
+                {
+                    "icon": "images/skills/Jest.png",
+                    "title": "Jest"
+                },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
@@ -84,22 +101,6 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
-                },
-                {
-                    "icon": "images/skills/aws.png",
-                    "title": "AWS"
-                },
-                {
-                    "icon": "images/skills/azure.png",
-                    "title": "Azure"
-                },
-                {
-                    "icon": "images/skills/cypress.png",
-                    "title": "Cypress"
-                },
-                {
-                    "icon": "images/skills/jest.png",
-                    "title": "Jest"
                 }
             ]
     }
